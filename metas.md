@@ -22,3 +22,12 @@ Aprender mas cosas sobre programacion y ser uno de los mejores en esto
 
 Desarrollar aplicaciones web completas integrando React, Node.js y SQL para mi portafolio profesional.
 
+
+## Meta seis 
+Aprender React Avanzado
+
+## Meta siete 
+Mejorar en CSS3
+
+## Meta ocho
+Dominar Git y GitHub
