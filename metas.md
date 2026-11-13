@@ -4,6 +4,7 @@ Mis metas con el tecnologo de ADSO
 
 ## Meta uno
 
+<<<<<<< HEAD
 Terminar el tecnologo y aprender mas cosas nuevas 
 
 ## Meta dos 
@@ -31,3 +32,14 @@ Mejorar en CSS3
 
 ## Meta ocho
 Dominar Git y GitHub
+=======
+Terminar el tecnoclogo y seguir aprendiendo cada dia cosas nuevas
+
+## Meta dos
+
+Encontrar un buen empleo 
+
+## Meta Tres 
+
+Generar buenos ingresos gracias a la  programacion 
+>>>>>>> agregar-postre
